@@ -1,30 +1,19 @@
-Global Furniture Sales Dashboard (2021–22)
-This interactive Power BI dashboard provides a comprehensive overview of global furniture sales performance for the years 2021 and 2022. It includes key performance metrics such as:
+🪑 Global Furniture Sales Dashboard (2021–22)
+This Power BI dashboard visualizes global furniture sales performance over the years 2021 and 2022. It provides interactive insights into sales trends, revenue, margins, and salesperson productivity.
 
-Total Items Sold: 909 transactions
+Key Features:
+Total Items Sold: 9,000 units across 909 orders
 
-Total Units Sold: 9,000+
+Total Revenue: Approx. $4.72M
 
-Total Revenue and Margin: Visualized using gauges and summary figures
+Total Margin: Approx. $1.45M
 
-Key Visuals:
-Time Trends: A line chart tracking the count of items sold by month over two years
+Time Analysis: Monthly and quarterly trends for both years
 
-Sales Performance by Salesperson: Combined bar-line chart and pie charts showing revenue and item counts
+Regional Breakdown: Revenue and margin contributions by North, South, East, and West regions
 
-Regional Analysis: Pie and donut charts for margin and revenue by region
+Salesperson Performance: Comparative revenue and item counts by individual salespeople
 
-Product Analysis: Breakdown of sales and item counts across product types
+Product Analysis: Item distribution by product types such as Marble Dining, Bamboo Foam, Wooden Coffee, etc.
 
-Quarterly Margins: Bar chart showing margin trends by quarter
-
-Filters/Slicers:
-Region
-
-Salesperson
-
-Customer
-
-Product
-
-This dashboard allows users to drill down into performance metrics by region, product, and individual salesperson to support strategic decision-making.
+This dashboard supports strategic decision-making by highlighting performance across dimensions like region, product, and personnel.
